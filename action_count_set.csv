@@ -1,0 +1,268 @@
+﻿,url,comments,cnt
+0,/gift/detail/send,보낸 선물 상세,154
+1,/my/refund/account#popup-service-1,,7
+2,/gift/list#popup-service-2,,1
+3,/member/login/view#popup-service-14,,1
+4,/member/login/channel/naver,,1641
+5,/my/unsubscribe/refund,환불,8374
+6,/sti/EDRDDY,,1
+7,/member/login/view#popup-service-7,,1
+8,/searchClickDummy,,40971
+9,/setting/view#popup-service-2,,29
+10,/member/join/auth/send,휴대폰 본인 인증,16847
+11,/member/login/view#popup-service-3,,5
+12,/common/error,,4662
+13,/my/terms/mms/join/product/complete,고객센터 유입 상품가입 mms 약관 동의완료,3491
+14,/netflix/bundle/join,넷플릭스 하드번들 가입,2076
+15,/member/login/view#popup-service-5,,1
+16,/cart/view#popup-service-5,,13
+17,/setting/login-channel#popup-service-1,,15
+18,/gift/list,받은/보낸 선물 리스트,34364
+19,/my/refund/account/detail,환불 계좌 수정,110
+20,/order/hdl/dlay,주문처리지연,15
+21,/cart/view#,,2
+22,/netflix/cert/join,넷플릭스 본인인증,1591
+23,/etc/notice#popup-service-1,,15
+24,/kr/sh/8blWDy,,1
+25,/setting/quit/done,탈퇴 완료,1626
+26,/my/subscribe#popup-service-5,,7
+27,/order/fail,결제실패,3135
+28,/etc/inquiry#popup-service-2,,4
+29,/my/detail/payment,결제 관리,470818
+30,/my/google/ytp/auth,,42094
+31,/s,,1
+32,/like-product/list,리스트,2648
+33,/member/join/auth/null,,164
+34,/my/terms#popup-service-2,,4
+35,/product/m.sktuniverse.co.kr,,1
+36,/setting/member/info#popup-service-4,,2
+37,/my%20,,1
+38,/like-product/list#popup-service-1,,9
+39,/member/update/phon-number,휴대폰 번호 변경,11
+40,/my/delivery#popup-service-1,,7
+41,/cart/view#popup-service-3,,153
+42,/common/inspect,,34127
+43,/netflix/bundle/join/check,,1631
+44,/my/disney/auth,,9420
+45,/.etc/event/detail,,2
+46,/member/join/terms,T 우주 서비스 이용 약관 동의 조회,16287
+47,/my,나의 구독,2202020
+48,/gift/list/recommend,추천 선물 리스트,1289
+49,/my/,,1
+50,/my/family#popup-service-2,,11
+51,/my%20//10,,1
+52,/setting/member/info#popup-service-5,,4
+53,/%E3%85%81%E3%84%B4%E3%85%87,,1
+54,/my/coupon/detail,나의 쿠폰 상세,111420
+55,/my/family,패밀리혜택 메인,1864
+56,/category,카테고리,244039
+57,/category#popup-service-1,,477
+58,/my/unsubscribe,해지,108784
+59,/product/my-inquiry#popup-service-1,,7
+60,/cart/view#popup-service-7,,5
+61,/my/subscribe#popup-service-2,,18
+62,/order/already/pay/fnsh,이미 결제 완료,4074
+63,/Product/detail,,2
+64,/order/complete,결제완료,119817
+65,/cart/view#popup-service-8,,2
+66,/recent-product/list,리스트,12308
+67,/my/termination/check/complete,해지 신청 완료,8719
+68,/common/scm/inflow/bridge,,2775
+69,/like-product/list#popup-service-3,,2
+70,/my/terms#popup-service-1,,715
+71,/sti/EDRDDy,,2
+72,/use#,,13
+73,/member/pass/popup,,47
+74,/my/paymentlist#popup-service-2,,1
+75,/product/detail#popup-service-1,,1
+76,/bypass/bff/v1/sub/getScbOrdPayAmtCalculate,,1
+77,/etc/customer/center#popup-service-1,,210
+78,/my/subscribe#popup-service-3,,16
+79,/my/family#popup-service-1,,1
+80,/member/login/channel/google,,484
+81,/discover/preview,,4
+82,/etc/event,이벤트,3951
+83,/etc/event/detail,이벤트 상세,700467
+84,/my#,,32
+85,/use#popup-service-6,,1
+86,/common,,1
+87,/use#popup-service-2,,248
+88,/setting/member/info#popup-service-3,,7
+89,/use/my/sku/detail/dis,,1
+90,/setting/login-channel,로그인 수단 관리,3873
+91,/member/join/terms/external/agree,,433
+92,/setting/quit/reason,탈퇴 사유,1734
+93,/#popup-service-5,,37
+94,/cart/view#popup-service-4,,40
+95,/etc/inquiry,1:1 문의 메인,17525
+96,/verse-brand_pc_0204_dn2_thumbnail2&utm_term=%EC%9A%B0%EC%A3%BC%ED%8C%A8%EC%8A%A4&n_media=27758&n_query=%EC%9A%B0%EC%A3%BC%ED%8C%A8%EC%8A%A4&n_rank=1&n_ad_group=grp-a001-04-000000046723835&n_ad=nad-a001-04-000000351154537&n_keyword_id=nkw-a001-04-000006706248033&n_keyword=%EC%9A%B0%EC%A3%BC%ED%8C%A8%EC%8A%A4&n_campaign_type=4&n_contract=tct-a001-04-000000001018314&n_ad_group_type=5,,1
+97,/cart/view#popup-service-10,,1
+98,/member/login/channel/apple,,44
+99,/etc/notice/detail,공지사항 상세,23964
+100,/my/termination,해지 신청,12835
+101,/common/loading,,631
+102,/etc/customer/center,고객센터,28005
+103,/my/subscribe#popup-service-1,,17219
+104,/search/result,검색 결과,145386
+105,/my/sku/detail/dis,구독중인 SKU 상세,342569
+106,/member/login/view#popup-service-4,,2
+107,/my/coupon,나의 쿠폰,177783
+108,/my/terms/mms/join/membership/complete,고객센터 유입 회원가입 mms 약관 동의완료,2209
+109,/sti/edrddy,,1
+110,/use#popup-service-3,,40
+111,/cart/view,장바구니 리스트,413452
+112,/cart/view#popup-service-12,,1
+113,/native/membership/webview/close,,891
+114,/member/pass/response,,80
+115,/sh,,3
+116,/use#popup-service-4,,7
+117,/setting/member/info,회원 정보 관리,73055
+118,/my/paymentlist/detail,결제/환불 내역 상세,55945
+119,/product/detail/slot,상품 구성상품 원장,160258
+120,/my#popup-service-5,,5
+121,/netflix/bundle/join/fail,넷플릭스 가입 불가,18
+122,/my#popup-service-3,,15
+123,/my/terms,이용약관,5869
+124,/etc/event/detail&wait=true,,1
+125,/my#popup-service-4,,6
+126,/gift/write,선물 메세지 작성,1006
+127,/my/family/user/benefit,이용 중인 혜택 상세,489
+128,/member/temp/login,임시 로그인(개발용),6
+129,/product,상품,8
+130,/common/error),,2
+131,/member/login/view#popup-service-1,,52
+132,/my/coupon/voucher/detail,이용권 상세,70
+133,/#popup-service-4,,132
+134,/discover/personal/context,발견 > 개인화컨텍스트,387845
+135,/member/login/view#popup-service-2,,5
+136,/setting/member/info#,,6
+137,/setting/view#popup-service-4,,5
+138,/use#popup-service-1,,23273
+139,/my/terms#popup-service-6,,1
+140,/my/deliverytracker,,81
+141,/my/detail/prdbnf,상품혜택이용하기,1163131
+142,/my/subscribe#popup-service-4,,11
+143,/#popup-service-1,,97078
+144,/member/login/channel/kakao,,1100
+145,/my/delivery,배송지 관리,6592
+146,/my/family/joined,가입한 패밀리,125
+147,/my/termination/check,해지 신청 안내,6774
+148,/cart/view#popup-service-6,,12
+149,/category/sub/tab/detail#popup-service-1,,32
+150,/member/login/view,채널 로그인 메인 화면,798849
+151,/my/couponq,,1
+152,/#popup-service-7,,11
+153,/my/paymentlist/cancel/fail,,862
+154,/my/sku/detail/cpn,구독중인 SKU 상세,860293
+155,/recent-product/list#popup-service-5,,1
+156,/search,검색,81559
+157,/my/terms/mms/join/membership/check,,420
+158,/my#popup-service-2,,790
+159,/recent-product/list#popup-service-1,,28
+160,/#popup-service-2,,8660
+161,/use/detail,이용 상세,871013
+162,/product/my-inquiry,상품 문의(my),10183
+163,/member/join/terms/agree,,93
+164,/my/paymentlist#popup-service-3,,3
+165,/product/,,1
+166,/etc/notification,알림함,12370
+167,/my/detail/payment/register/cancel,,29
+168,/my/refund/account#popup-service-2,,1
+169,/setting/quit/impossible,탈퇴 불가,1103
+170,/my/terms/mms/join/membership/progress,고객센터 유입 회원가입 약관 mms,129
+171,/my/google/ytp/auth/callback,,46614
+172,/etc/faq,FAQ,6367
+173,/setting/notification,알림설정,2027
+174,/order/cancel,,143
+175,/,발견,1745138
+176,/etc/event#popup-service-1,,4
+177,/order/complete/wait,sse 결제 완료 대기,91582
+178,/my/coupon#popup-service-1,,244
+179,/newssp/my/detail/prdbnf,,1
+180,/st/EDRDDY,,2
+181,/gift/guide,선물 사용 방법,32
+182,/#popup-service-6,,20
+183,/my/terms#popup-service-5,,1
+184,/etc/notice,공지사항 메인,2709
+185,/search/result#popup-service-1,,1
+186,/category/sub/tab/detail/preview,,4
+187,/member/join/auth/check,인증번호 입력 화면,11458
+188,/my/detail/payment/register,정기 결제 수단 등록,5942
+189,/#popup-service-8,,3
+190,/common/not-found,,2911
+191,/my/sku/%20detail/cpn,,3
+192,/member/token-refresh/fail,,2323193
+193,/my#popup-service-1,,19861
+194,/my/unsubscribe/complete,해지 완료,85571
+195,/category/preview,,1
+196,/),,1
+197,/etc/inquiry#popup-service-1,,137
+198,/setting/view#popup-service-3,,12
+199,/my/terms/mms/join/product/progress,고객센터 유입 상품가입 약관 mms,3964
+200,/my/terms/product/change,,1518
+201,/member/login/success,,1055019
+202,/type=cpno,,1
+203,/my#popup-service-6,,1
+204,/etc/event/detail/preview,,41
+205,/use,이용,732788
+206,/my/termination/check/cancel,해지 신청 종료,32
+207,/bypass/api/ord/v1/cart/createCartPrd,,1
+208,/etc/notification#popup-service-1,,6
+209,/my/unsubscribe/nowend,즉시종료,32641
+210,/setting/member/info#popup-service-1,,2381
+211,/my/terms/mms/join/product/check,,4291
+212,/#popup-service-3,,378
+213,/my/refund/account,환불 계좌 관리,19025
+214,/member/login/view#popup-service-6,,2
+215,/newssp/my/detail,,2
+216,/cart/view#popup-service-1,,1627
+217,/my/termination/check/error,해지 신청 오류,37
+218,/order/view,결제화면,171406
+219,/category/menucard/detail,카테고리 메뉴카드 상세,32962
+220,/my/detail,나의구독(상세),1982836
+221,/gift/list/recommend#popup-service-1,,4
+222,/discover/comctn/preview,,1
+223,/native/auth,native app 접근권한 안내 페이지,177979
+224,/st/edrddy,,1
+225,/my/sku/detail/vou,구독중인 SKU 상세,336501
+226,/my/subscribe,구독관리,1824098
+227,/my/paymentlist,결제 내역,136971
+228,/setting/member/info#popup-service-2,,11
+229,/member/login/channel/tid,,6402
+230,/my/subscribe#popup-service-6,,3
+231,/my/delivery#popup-service-4,,1
+232,/my/sku/,,1
+233,/#popu%EC%A7%80%E3%85%881p-sevice-1,,1
+234,/etc/faq#popup-service-1,,69
+235,/my/family#popup-service-4,,1
+236,/etc/inquiry/detail,1:1문의 상세,7863
+237,/my/detail/payment/register/complete,,19732
+238,/my/paymentlist#popup-service-1,,490
+239,/category/sub/tab/detail,카테고리 상세,261133
+240,/member/join/terms/external,POC 서비스 이용 약관 동의 조회,131921
+241,/setting/view#popup-service-1,,739
+242,/use/my/sku/detail/cpn,,1
+243,/my/subscribe#popup-service-8,,2
+244,/setting/quit/confirm,탈퇴 전 확인,1484
+245,/my/sku/detail,,2
+246,/search#popup-service-1,,158
+247,/etc/customer/center#popup-service-3,,1
+248,/gift/list#popup-service-1,,206
+249,/setting/view,메인,65027
+250,/cart/view#popup-service-9,,1
+251,/my/subscribe#popup-service-15,,1
+252,/cart/view#popup-service-2,,91
+253,/my/sku/detail/dlv,구독중인 SKU 상세,175
+254,/nfo,,1
+255,/recent-product/list#popup-service-3,,1
+256,/my#popup-service-8,,2
+257,/my/subscribe#popup-service-7,,2
+258,/#,,9
+259,/my/unsubscribe/info,해지안내,205879
+260,/my/google/ytp/connect,,94986
+261,/newssp/my/sku/detail/vou,,3
+262,/web/product,,1
+263,/search#popup-service-2,,1
+264,/gift/detail/receive,받은 선물 상세,426
+265,/my/terms/product/expulsion,상품 중단/퇴출,5404
+266,/product/detail,상품 상세,1739854
